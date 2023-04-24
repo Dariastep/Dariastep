@@ -2,4 +2,4 @@
 - I am on the way to be the Web Developer!
 - I 🏔️ Mountaneering and 🌎 Travelling
 - Based in Munich, Germany 🥨
-- Speak English, German, Russian, Spanish
+>Speak English, German, Russian, Spanish
