@@ -1,7 +1,7 @@
 ![Studio_Project-2](https://user-images.githubusercontent.com/123622878/234026269-b29e4a9f-7745-4303-b994-dbd2bb60078d.jpeg)
 
 # About Me:
-🚀  I'm a optimization-driven web developer.<br>🏆 I just successfully completed an intensive 3-month web development bootcamp at neuefishe! <br>🥳 I took my learning to the next level by building my personal project "Lamo-hiking app".<br> Now, I am excited and prepared to contribute to innovative projects in a professional environment. <br>🥨 Based in Munich, Germany.<br>🌎 Speak English, German, Russian, Spanish.<br> 
+🚀  I'm a optimization-driven web developer.<br>🏆 I just successfully completed an intensive 3-month web development bootcamp at neuefishe! <br>🥳 I took my learning to the next level by building my personal project "Lamo-hiking app".<br>👩‍💻 Now, I am excited and prepared to contribute to innovative projects in a professional environment. <br>🥨 Based in Munich, Germany.<br>🌎 Speak English, German, Russian, Spanish.<br> 
 
 **Let's build something great together!**
 
