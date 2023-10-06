@@ -1,7 +1,7 @@
 ![Studio_Project-2](https://user-images.githubusercontent.com/123622878/234026269-b29e4a9f-7745-4303-b994-dbd2bb60078d.jpeg)
 
 ## About Me:
-🚀  I'm a result-driven frontend developer.<br>🏆 I just successfully completed an intensive 3-month web development bootcamp at [neuefishe GmbH](https://www.neuefische.de/en)! <br>🥳 I took my learning to the next level by building my personal project [Lamo-hiking app](https://github.com/Dariastep/Lamo-hiking-app-capstone-project).<br>👩‍💻 Now, I am excited to contribute to innovative projects by Adesso SE as a Software Developer!. <br>🥨 Based in Munich, Germany.<br>🌎 Speak English, German, Russian, Spanish.<br> 
+🚀  I'm a result-driven frontend developer.<br>🏆 I just successfully completed an intensive 3-month web development bootcamp at [neuefishe GmbH](https://www.neuefische.de/en)! <br>🥳 I took my learning to the next level by building my personal project [Lamo-hiking app](https://github.com/Dariastep/Lamo-hiking-app-capstone-project).<br>👩‍💻 Now, I am excited to contribute to innovative projects by Adesso SE as a Software Developer. <br>🥨 Based in Munich, Germany.<br>🌎 Speak English, German, Russian, Spanish.<br> 
 
 **Let's build something great together!**
 
